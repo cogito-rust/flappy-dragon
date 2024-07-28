@@ -1,0 +1,8 @@
+[package]
+name = "flappy_dragon"
+version = "0.1.0"
+edition = "2021"
+authors = ["fujia <fujia.site@gmail.com>"]
+
+[dependencies]
+bracket-lib = "~0.8"
